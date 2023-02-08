@@ -1,1 +1,2 @@
-git day1 
+git day1 (push)
+git day1 (pull)
